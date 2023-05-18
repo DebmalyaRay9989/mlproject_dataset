@@ -6,5 +6,8 @@ scikit-learn
 catboost
 xgboost
 Flask
+klib
+dill
+scipy
 gunicorn
 -e .
