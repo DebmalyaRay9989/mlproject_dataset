@@ -1,0 +1,2 @@
+[ 2023-05-15 17:59:16,298 ] 159 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-05-15 17:59:19,558 ] 29 root - INFO - Entered the data ingestion method or component
