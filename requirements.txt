@@ -1,9 +1,10 @@
 pandas
 numpy
-seaborn
+seaborn==0.11.1
 matplotlib
 scikit-learn
 catboost
 xgboost
 Flask
+gunicorn
 -e .
